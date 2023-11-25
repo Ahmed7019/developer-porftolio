@@ -538,6 +538,10 @@ video {
   font-family: Inter, san-serif;
 }
 
+.font-Prata {
+  font-family: Prata, serif;
+}
+
 @layer {
   @font-face {
     font-family: 'Inter', sans-serif;
