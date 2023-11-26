@@ -538,6 +538,10 @@ video {
   display: none;
 }
 
+.p-6 {
+  padding: 1.5rem;
+}
+
 .font-Inter {
   font-family: Inter, san-serif;
 }
