@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        Inter: ["Inter", "san-serif"],
-        Prata: ["Prata", "serif"],
+        'Inter': ["Inter", "san-serif"],
+        'Prata': ['Prata', 'serif'],
       },
     },
   },
