@@ -4,6 +4,6 @@
 
 - Semantic HTML5 markup
 - Tailwindcs
-- Flex
-- Grid for footer
+- Flexbox
+- Grid system
 - Mobile-first workflow
