@@ -775,6 +775,14 @@ video {
     margin-right: 0px;
   }
 
+  .md\:mr-1 {
+    margin-right: 0.25rem;
+  }
+
+  .md\:mr-10 {
+    margin-right: 2.5rem;
+  }
+
   .md\:flex {
     display: flex;
   }
@@ -831,12 +839,25 @@ video {
     gap: 2.5rem;
   }
 
+  .md\:gap-14 {
+    gap: 3.5rem;
+  }
+
+  .md\:gap-1 {
+    gap: 0.25rem;
+  }
+
   .md\:overflow-hidden {
     overflow: hidden;
   }
 
   .md\:overflow-clip {
     overflow: clip;
+  }
+
+  .md\:px-20 {
+    padding-left: 5rem;
+    padding-right: 5rem;
   }
 }
 
